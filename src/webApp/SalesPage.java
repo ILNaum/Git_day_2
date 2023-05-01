@@ -6,4 +6,6 @@ public class SalesPage {
 
     //35%
     //40%
+
+    //holiday sales 60%
 }
